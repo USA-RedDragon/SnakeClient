@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <Preference android:key="general" android:icon="@drawable/ic_general" android:title="@string/pref_header_general"/>
+    <Preference android:key="notifications" android:icon="@drawable/ic_notifications" android:title="@string/pref_header_notifications"/>
+</PreferenceScreen>
